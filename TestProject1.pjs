@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{E77E38B2-A114-42FF-A6FC-404F673D5488}">
+	<children>
+		<child name="BrokenLink" key="{6BFB48B8-3725-4BD5-9DC2-DEFF6B131BF5}" path="TestProject1\BrokenLink.mds" />
+	</children>
+	<testItems key="{2F6BFDD8-4CA7-41A4-9542-36F0472771DB}">
+		<children>
+			<testItem key="{6BFB48B8-3725-4BD5-9DC2-DEFF6B131BF5}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{D492516C-27F6-4DFC-BAA0-E267BCEAF526}" />
+	<analysis key="{07576B76-FD87-4560-A59E-FCB358AD708E}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
